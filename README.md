@@ -1,2 +1,2 @@
-# shiny-journey
+# Hello there
 It is a demo project
